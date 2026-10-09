@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "thuong1804",
+        "email": "thuongtvt30@gmail.com"
+    },
+    "description": "Personal tech blog",
+    "repo": "https://github.com/thuong1804/Blog_Fe",
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
+    }
+}
